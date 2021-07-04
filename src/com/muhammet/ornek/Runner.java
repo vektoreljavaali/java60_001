@@ -3,6 +3,7 @@ package com.muhammet.ornek;
 public class Runner {
 
 	public static void main(String[] args) {
+		// Selam
 		double s1,s2,s3,result,secim;
 		System.out.println("*****************************");
 		System.out.println("***** SAYISAL ÝÞLEMLER ******");
